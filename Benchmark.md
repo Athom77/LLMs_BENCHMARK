@@ -13,6 +13,7 @@
 | MPT-30B | 30 | [MPT-30B: Hugging Face](link to Hugging Face) | Not available for download | Not recommended for local use |  |
 | Pythia-12B | 12 | [Pythia-12B: Hugging Face](link to Hugging Face) | Not available for download | Not recommended for local use |  |
 | RedPajama-INCITE-7B | 7 | [RedPajama-INCITE-7B: Hugging Face](link to Hugging Face) | Not available for download | Not recommended for local use |  |
+| Open-Orca/Mistral-7B-OpenOrca | https://huggingface.co/Open-Orca/Mistral-7B-OpenOrca/tree/main | 14.48 (combined) | Not recommended for local use | Not recommended for local use |
 
 **Additional Resources:**
 
